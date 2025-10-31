@@ -1,0 +1,14 @@
+command_id: 7E0.2211C5
+test_cases:
+- expected_values:
+    VOLKSWAGEN_OIL_MIN: 32
+  response: 7E8056211C51F40
+- expected_values:
+    VOLKSWAGEN_OIL_MIN: 32
+  response: |-
+    7E8056211C51F40
+    7E8056211C4E0C0
+    7E80562F43109A3
+    7E8056211BE0CB1
+    7E80562F421000D
+    7E80762116400000000

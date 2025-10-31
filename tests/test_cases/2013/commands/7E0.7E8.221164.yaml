@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221164
+test_cases:
+- expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 0
+  response: '7E80762116400000000'
