@@ -1,0 +1,5 @@
+command_id: 7E0.2211C4
+test_cases:
+- expected_values:
+    VOLKSWAGEN_OIL_MAX: 230.144
+  response: 7E8056211C4E0C0

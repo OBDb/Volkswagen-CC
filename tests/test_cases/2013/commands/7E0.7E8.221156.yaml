@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221156
+test_cases:
+- expected_values:
+    VOLKSWAGEN_HVBAT_SOC_V2: 0
+  response: '7E80762115600001216'
+- expected_values:
+    VOLKSWAGEN_HVBAT_SOC_V2: 0
+  response: 7E80762115600020CAE
+- expected_values:
+    VOLKSWAGEN_HVBAT_SOC_V2: 0
+  response: 7E8076211560003E244
+- expected_values:
+    VOLKSWAGEN_HVBAT_SOC_V2: 0
+  response: 7E80762115600044BF5
+- expected_values:
+    VOLKSWAGEN_HVBAT_SOC_V2: 0
+  response: 7E80762115600053B10
+- expected_values:
+    VOLKSWAGEN_HVBAT_SOC_V2: 0
+  response: 7E807621156000624AE
