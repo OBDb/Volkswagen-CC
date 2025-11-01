@@ -34,14 +34,6 @@ test_cases:
     77E0562229A004D
     77E0462202F46
 - expected_values:
-    VOLKSWAGEN_AAT: 13.5
-  response: |-
-    77E046210147F
-    77E0562229A005F
-    77E0462202F96
-    77E056222034E33
-    77E0562229400A2
-- expected_values:
     VOLKSWAGEN_AAT: 14
   response: |-
     77E0462101480
@@ -80,6 +72,14 @@ test_cases:
     77E0462101484
     77E0562229400A9
 - expected_values:
+    VOLKSWAGEN_AAT: 10.5
+  response: |-
+    77E0462202F00
+    77E0562229401AF
+    77E0562229A00FC
+    77E056222034E6F
+    77E0462101479
+- expected_values:
     VOLKSWAGEN_AAT: 12.5
   response: |-
     77E0462202F47
@@ -103,14 +103,6 @@ test_cases:
     77E056222940078
     77E0562229A0043
     77E046210147C
-- expected_values:
-    VOLKSWAGEN_AAT: 11.5
-  response: |-
-    77E056222034E5B
-    77E0562229A002B
-    77E056222940053
-    77E0462202F4F
-    77E046210147B
 - expected_values:
     VOLKSWAGEN_AAT: 14.5
   response: |-
@@ -142,14 +134,6 @@ test_cases:
     77E0562229401B9
     77E0562229A00FD
     77E0462202F7D
-    77E046210147C
-- expected_values:
-    VOLKSWAGEN_AAT: 12
-  response: |-
-    77E056222940074
-    77E0562229A0041
-    77E056222034E39
-    77E0462202F48
     77E046210147C
 - expected_values:
     VOLKSWAGEN_AAT: 16
@@ -203,3 +187,11 @@ test_cases:
     77E056222034E51
     77E0562229400AE
     77E046210147E
+- expected_values:
+    VOLKSWAGEN_AAT: 11
+  response: |-
+    77E0562229A00FA
+    77E05622294019C
+    77E056222034E6F
+    77E0462202F7B
+    77E046210147A
