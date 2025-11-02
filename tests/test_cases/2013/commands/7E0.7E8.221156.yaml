@@ -11,10 +11,10 @@ test_cases:
   response: 7E80762115600028E02
 - expected_values:
     VOLKSWAGEN_HVBAT_SOC_V2: 0
-  response: 7E8076211560003E244
+  response: 7E8076211560002A6F6
 - expected_values:
     VOLKSWAGEN_HVBAT_SOC_V2: 0
-  response: 7E80762115600044BF5
+  response: 7E8076211560003E244
 - expected_values:
     VOLKSWAGEN_HVBAT_SOC_V2: 0
   response: 7E807621156000624AE
