@@ -136,6 +136,14 @@ test_cases:
     77E0462202F7D
     77E046210147C
 - expected_values:
+    VOLKSWAGEN_AAT: 10
+  response: |-
+    77E056222034E78
+    77E056222940162
+    77E0462202F8B
+    77E0562229A00C7
+    77E0462101478
+- expected_values:
     VOLKSWAGEN_AAT: 16
   response: |-
     77E0562229400AA
@@ -187,6 +195,13 @@ test_cases:
     77E056222034E51
     77E0562229400AE
     77E046210147E
+- expected_values:
+    VOLKSWAGEN_AAT: 9.5
+  response: |-
+    77E0562229A00C7
+    77E056222034E78
+    77E056222940162
+    77E0462101477
 - expected_values:
     VOLKSWAGEN_AAT: 11
   response: |-
