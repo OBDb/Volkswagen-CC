@@ -65,6 +65,9 @@ test_cases:
     77E056222034E32
     77E0562229400A6
 - expected_values:
+    VOLKSWAGEN_AAT: 15.5
+  response: '77E0462101483'
+- expected_values:
     VOLKSWAGEN_AAT: 16
   response: '77E0462101484'
 - expected_values:
