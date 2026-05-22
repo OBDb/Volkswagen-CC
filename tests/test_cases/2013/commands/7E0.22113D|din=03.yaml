@@ -1,0 +1,11 @@
+command_id: 7E0.22113D|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_O2_SEN_1_LAMBDA: 25
+  response: 7E80562113D09C4
+- expected_values:
+    VOLKSWAGEN_PQ35_O2_SEN_1_LAMBDA: 27.02
+  response: 7E80562113D0A8E
+- expected_values:
+    VOLKSWAGEN_PQ35_O2_SEN_1_LAMBDA: 28.73
+  response: 7E80562113D0B39

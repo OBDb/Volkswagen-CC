@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221341
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_CAMS_END: 2298
+  response: 7E8056213412CE2
+- expected_values:
+    VOLKSWAGEN_PQ35_CAMS_END: 2298.2
+  response: 7E8056213412CE3

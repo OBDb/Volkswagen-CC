@@ -1,0 +1,8 @@
+command_id: 7E0.2214F5|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_DIFF_P: 4
+  response: 7E8056214F50004
+- expected_values:
+    VOLKSWAGEN_PQ35_DIFF_P: 5
+  response: 7E8056214F50005

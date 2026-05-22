@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221313
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_EGR_VALVE_2_B1_FLOW: 0
+  response: '7E8056213130000'

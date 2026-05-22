@@ -1,0 +1,11 @@
+command_id: 746.7B0.222604|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_LOAD: 5.9
+  response: 7B0046226043B
+- expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_LOAD: 6
+  response: 7B0046226043C
+- expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_LOAD: 6.4
+  response: 7B00462260440

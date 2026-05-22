@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2214CF
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_MAIN_INJ_DURATION: 0
+  response: 7E8056214CF0000
+- expected_values:
+    VOLKSWAGEN_PQ35_MAIN_INJ_DURATION: 0.7204
+  response: 7E8056214CF0709
+- expected_values:
+    VOLKSWAGEN_PQ35_MAIN_INJ_DURATION: 0.7428
+  response: 7E8056214CF0741
+- expected_values:
+    VOLKSWAGEN_PQ35_MAIN_INJ_DURATION: 0.8612
+  response: 7E8056214CF0869
