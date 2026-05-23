@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211B2
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_DPF_IN_T: 162.3
-  response: 7E8056211B21102
+    VOLKSWAGEN_PQ35_DPF_IN_T: 143.1
+  response: 7E8056211B21042
 - expected_values:
-    VOLKSWAGEN_PQ35_DPF_IN_T: 260.4
-  response: 7E8056211B214D7
+    VOLKSWAGEN_PQ35_DPF_IN_T: 186.5
+  response: 7E8056211B211F4
 - expected_values:
     VOLKSWAGEN_PQ35_DPF_IN_T: 290.2
   response: 7E8056211B21601

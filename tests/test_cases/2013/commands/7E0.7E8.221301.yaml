@@ -7,8 +7,8 @@ test_cases:
     VOLKSWAGEN_PQ35_LIM_SMOKE: 203.9
   response: 7E80562130107F7
 - expected_values:
-    VOLKSWAGEN_PQ35_LIM_SMOKE: 205.2
-  response: '7E8056213010804'
+    VOLKSWAGEN_PQ35_LIM_SMOKE: 205
+  response: '7E8056213010802'
 - expected_values:
     VOLKSWAGEN_PQ35_LIM_SMOKE: 232.1
   response: '7E8056213010911'

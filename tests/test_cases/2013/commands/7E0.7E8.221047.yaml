@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221047
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_ENG_TRQ: 0.4
-  response: '7E8056210470004'
+    VOLKSWAGEN_PQ35_ENG_TRQ: 0
+  response: '7E8056210470000'
 - expected_values:
-    VOLKSWAGEN_PQ35_ENG_TRQ: 49
-  response: 7E80562104701EA
+    VOLKSWAGEN_PQ35_ENG_TRQ: 75.7
+  response: 7E80562104702F5
 - expected_values:
     VOLKSWAGEN_PQ35_ENG_TRQ: 352.6
   response: 7E8056210470DC6

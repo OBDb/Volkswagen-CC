@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2212FC
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_THROT_VALVE_ADAPT: 26.53
-  response: 7E8056212FC0A5D
+    VOLKSWAGEN_PQ35_THROT_VALVE_ADAPT: 26.3
+  response: 7E8056212FC0A46
 - expected_values:
     VOLKSWAGEN_PQ35_THROT_VALVE_ADAPT: 81.91
   response: 7E8056212FC1FFF

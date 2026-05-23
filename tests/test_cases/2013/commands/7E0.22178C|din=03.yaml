@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_OIL_ASH_RESIDUE: 56.6
   response: 7E80562178C0236
+- expected_values:
+    VOLKSWAGEN_PQ35_OIL_ASH_RESIDUE: 56.7
+  response: 7E80562178C0237

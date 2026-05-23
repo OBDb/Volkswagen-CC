@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_DPF_FUEL_CON_REGEN: 7.68
   response: 7E80562115A0300
+- expected_values:
+    VOLKSWAGEN_PQ35_DPF_FUEL_CON_REGEN: 11.76
+  response: 7E80562115A0498
