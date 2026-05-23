@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.221146
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MISFIRES_TOTAL: 3475
-  response: 7E8056211460D93
+    VOLKSWAGEN_MISFIRES_TOTAL: 1050
+  response: 7E805621146041A
 - expected_values:
     VOLKSWAGEN_MISFIRES_TOTAL: 3585
   response: 7E8056211460E01
-- expected_values:
-    VOLKSWAGEN_MISFIRES_TOTAL: 3762
-  response: 7E8056211460EB2
 - expected_values:
     VOLKSWAGEN_MISFIRES_TOTAL: 65502
   response: 7E805621146FFDE

@@ -6,3 +6,24 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_DIFF_P: 5
   response: 7E8056214F50005
+- expected_values:
+    VOLKSWAGEN_PQ35_DIFF_P: 15
+  response: 7E8056214F5000F
+- expected_values:
+    VOLKSWAGEN_PQ35_DIFF_P: 20
+  response: 7E8056214F50014
+- expected_values:
+    VOLKSWAGEN_PQ35_DIFF_P: 23
+  response: 7E8056214F50017
+- expected_values:
+    VOLKSWAGEN_PQ35_DIFF_P: 29
+  response: 7E8056214F5001D
+- expected_values:
+    VOLKSWAGEN_PQ35_DIFF_P: 34
+  response: 7E8056214F50022
+- expected_values:
+    VOLKSWAGEN_PQ35_DIFF_P: 45
+  response: 7E8056214F5002D
+- expected_values:
+    VOLKSWAGEN_PQ35_DIFF_P: 54
+  response: 7E8056214F50036

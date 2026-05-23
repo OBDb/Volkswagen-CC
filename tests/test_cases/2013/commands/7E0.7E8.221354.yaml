@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221354
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_SOOT_IDX: 2
-  response: '7E8056213540002'
+    VOLKSWAGEN_PQ35_SOOT_IDX: 0
+  response: '7E8056213540000'
+- expected_values:
+    VOLKSWAGEN_PQ35_SOOT_IDX: 70
+  response: '7E8056213540046'

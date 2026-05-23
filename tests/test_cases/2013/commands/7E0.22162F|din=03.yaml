@@ -6,3 +6,27 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 9
   response: 7E80562162F0009
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 19
+  response: 7E80562162F0013
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 21
+  response: 7E80562162F0015
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 24
+  response: 7E80562162F0018
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 25
+  response: 7E80562162F0019
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 33
+  response: 7E80562162F0021
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 35
+  response: 7E80562162F0023
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 37
+  response: 7E80562162F0025
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 56
+  response: 7E80562162F0038

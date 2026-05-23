@@ -3,3 +3,27 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_ODO_2: 211556
   response: 7E8076216A900033A64
+- expected_values:
+    VOLKSWAGEN_PQ35_ODO_2: 211557
+  response: 7E8076216A900033A65
+- expected_values:
+    VOLKSWAGEN_PQ35_ODO_2: 211563
+  response: 7E8076216A900033A6B
+- expected_values:
+    VOLKSWAGEN_PQ35_ODO_2: 211566
+  response: 7E8076216A900033A6E
+- expected_values:
+    VOLKSWAGEN_PQ35_ODO_2: 211568
+  response: 7E8076216A900033A70
+- expected_values:
+    VOLKSWAGEN_PQ35_ODO_2: 211570
+  response: 7E8076216A900033A72
+- expected_values:
+    VOLKSWAGEN_PQ35_ODO_2: 211571
+  response: 7E8076216A900033A73
+- expected_values:
+    VOLKSWAGEN_PQ35_ODO_2: 211572
+  response: 7E8076216A900033A74
+- expected_values:
+    VOLKSWAGEN_PQ35_ODO_2: 211574
+  response: 7E8076216A900033A76

@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.2214D1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_2_DURATION: 0
+  response: 7E8056214D10000
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_2_DURATION: 0.2156
+  response: 7E8056214D1021B
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_2_DURATION: 0.2188
+  response: 7E8056214D10223
+- expected_values:
     VOLKSWAGEN_PQ35_PRE_INJ_2_DURATION: 0.3116
   response: 7E8056214D1030B
 - expected_values:

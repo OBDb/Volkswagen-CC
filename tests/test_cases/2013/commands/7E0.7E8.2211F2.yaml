@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211F2
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_MAIN_INJ_START: 0.92
-  response: 7E8056211F2002E
+    VOLKSWAGEN_PQ35_MAIN_INJ_START: 0
+  response: 7E8056211F20000
 - expected_values:
     VOLKSWAGEN_PQ35_MAIN_INJ_START: -3.64
   response: 7E8056211F2FF4A
 - expected_values:
-    VOLKSWAGEN_PQ35_MAIN_INJ_START: -3.58
-  response: 7E8056211F2FF4D
+    VOLKSWAGEN_PQ35_MAIN_INJ_START: -0.08
+  response: 7E8056211F2FFFC

@@ -1,5 +1,23 @@
 command_id: 714.77E.222206|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_FUEL_LVL: 3
+  response: '77E0462220603'
+- expected_values:
+    VOLKSWAGEN_PQ35_FUEL_LVL: 4
+  response: '77E0462220604'
+- expected_values:
+    VOLKSWAGEN_PQ35_FUEL_LVL: 5
+  response: '77E0462220605'
+- expected_values:
+    VOLKSWAGEN_PQ35_FUEL_LVL: 6
+  response: '77E0462220606'
+- expected_values:
     VOLKSWAGEN_PQ35_FUEL_LVL: 7
   response: '77E0462220607'
+- expected_values:
+    VOLKSWAGEN_PQ35_FUEL_LVL: 9
+  response: '77E0462220609'
+- expected_values:
+    VOLKSWAGEN_PQ35_FUEL_LVL: 20
+  response: '77E0462220614'

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_POST_INJ_1_QTY_SPEC: 0
   response: 7E80562163C0000
+- expected_values:
+    VOLKSWAGEN_PQ35_POST_INJ_1_QTY_SPEC: 2
+  response: 7E80562163C00C8
