@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221007
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_CAMS_START: 1120.2
+    CC_PQ35_CAMS_START: 1120.2
   response: 7E80562100715E1
 - expected_values:
-    VOLKSWAGEN_PQ35_CAMS_START: 1124.6
+    CC_PQ35_CAMS_START: 1124.6
   response: 7E80562100715F7
 - expected_values:
-    VOLKSWAGEN_PQ35_CAMS_START: 1127
+    CC_PQ35_CAMS_START: 1127
   response: '7E8056210071603'

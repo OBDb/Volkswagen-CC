@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2215B8|din=03
+test_cases:
+- expected_values:
+    CC_OIL_LEVEL_LAST: 1
+  response: 7E8056215B80001
+- expected_values:
+    CC_OIL_LEVEL_LAST: 3
+  response: 7E8056215B80003
+- expected_values:
+    CC_OIL_LEVEL_LAST: 4
+  response: 7E8056215B80004
+- expected_values:
+    CC_OIL_LEVEL_LAST: 5
+  response: 7E8056215B80005

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22178C|din=03
+test_cases:
+- expected_values:
+    CC_PQ35_OIL_ASH_RESIDUE: 56.6
+  response: 7E80562178C0236
+- expected_values:
+    CC_PQ35_OIL_ASH_RESIDUE: 56.7
+  response: 7E80562178C0237

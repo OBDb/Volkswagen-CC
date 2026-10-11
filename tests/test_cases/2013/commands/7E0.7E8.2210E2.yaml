@@ -1,32 +1,32 @@
 command_id: 7E0.7E8.2210E2
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_WEAR_IDX: 0
+    CC_PQ35_WEAR_IDX: 0
   response: 7E8056210E20000
 - expected_values:
-    VOLKSWAGEN_PQ35_WEAR_IDX: 1
+    CC_PQ35_WEAR_IDX: 1
   response: 7E8056210E20001
 - expected_values:
-    VOLKSWAGEN_PQ35_WEAR_IDX: 4
+    CC_PQ35_WEAR_IDX: 4
   response: 7E8056210E20004
 - expected_values:
-    VOLKSWAGEN_PQ35_WEAR_IDX: 5
+    CC_PQ35_WEAR_IDX: 5
   response: 7E8056210E20005
 - expected_values:
-    VOLKSWAGEN_PQ35_WEAR_IDX: 6
+    CC_PQ35_WEAR_IDX: 6
   response: 7E8056210E20006
 - expected_values:
-    VOLKSWAGEN_PQ35_WEAR_IDX: 7
+    CC_PQ35_WEAR_IDX: 7
   response: 7E8056210E20007
 - expected_values:
-    VOLKSWAGEN_PQ35_WEAR_IDX: 8
+    CC_PQ35_WEAR_IDX: 8
   response: 7E8056210E20008
 - expected_values:
-    VOLKSWAGEN_PQ35_WEAR_IDX: 9
+    CC_PQ35_WEAR_IDX: 9
   response: 7E8056210E20009
 - expected_values:
-    VOLKSWAGEN_PQ35_WEAR_IDX: 10
+    CC_PQ35_WEAR_IDX: 10
   response: 7E8056210E2000A
 - expected_values:
-    VOLKSWAGEN_PQ35_WEAR_IDX: 11
+    CC_PQ35_WEAR_IDX: 11
   response: 7E8056210E2000B

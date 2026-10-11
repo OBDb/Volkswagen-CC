@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22111A
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_FLOW: 0
+    CC_PQ35_FUEL_FLOW: 0
   response: 7E80562111A0000
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_FLOW: 2.34
+    CC_PQ35_FUEL_FLOW: 2.34
   response: 7E80562111A00EA
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_FLOW: 11.06
+    CC_PQ35_FUEL_FLOW: 11.06
   response: 7E80562111A0452
