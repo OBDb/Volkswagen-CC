@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221024
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_AIR_MASS_1: 0
+    CC_MQB_AIR_MASS_1: 0
   response: '7E8056210240000'
 - expected_values:
-    VOLKSWAGEN_MQB_AIR_MASS_1: 74.8
+    CC_MQB_AIR_MASS_1: 74.8
   response: 7E80562102402EC
 - expected_values:
-    VOLKSWAGEN_MQB_AIR_MASS_1: 161.9
+    CC_MQB_AIR_MASS_1: 161.9
   response: '7E8056210240653'

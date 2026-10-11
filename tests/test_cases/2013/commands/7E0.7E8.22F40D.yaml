@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F40D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 0
+    CC_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 105
+    CC_VSS: 105
   response: 7E80462F40D69

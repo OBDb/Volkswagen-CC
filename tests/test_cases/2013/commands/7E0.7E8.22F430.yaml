@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F430
 test_cases:
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 62
+    CC_WARM_UPS: 62
   response: 7E80462F4303E
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 128
+    CC_WARM_UPS: 128
   response: 7E80462F43080
